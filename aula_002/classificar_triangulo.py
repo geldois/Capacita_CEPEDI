@@ -7,7 +7,6 @@ while angulo1:
         angulo1 = float(input("Digite o ângulo 1: "))
         angulo2 = float(input("Digite o ângulo 2: "))
         angulo3 = float(input("Digite o ângulo 3: "))
-
     if angulo1 == angulo2 == angulo3:
         print("Triângulo equilátero.")
         angulo1 = float(input("Digite o ângulo 1: "))
